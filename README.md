@@ -8,7 +8,7 @@
 # Member
   |이름|깃허브|블로그|
   |---|------|-------|
-  |EonJin-J|[깃허브](https://github.com/Eojin-J)|[블로그](https://comgenie.tistory.com)|
+  |EoJin-J|[깃허브](https://github.com/Eojin-J)|[블로그](https://comgenie.tistory.com)|
   |WonGyeom|[깃허브](https://github.com/EoNjesajo)|[블로그](https://podata.tistory.com)|<br><br>
 
   
