@@ -9,7 +9,8 @@
   |이름|깃허브|블로그|
   |---|------|-------|
   |EoJin-J|[깃허브](https://github.com/Eojin-J)|[블로그](https://comgenie.tistory.com)|
-  |WonGyeom|[깃허브](https://github.com/EoNjesajo)|[블로그](https://podata.tistory.com)|<br><br>
+  |WonGyeom|[깃허브](https://github.com/EoNjesajo)|[블로그](https://podata.tistory.com)|
+  |Kkubuck|[깃허브](https://github.com/Kkubuck)|[블로그](https://jms3084.tistory.com)|<br><br>
 
   
 # Team Projects & Experience
