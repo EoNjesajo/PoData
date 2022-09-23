@@ -11,6 +11,7 @@
   |EoJin-J|[깃허브](https://github.com/Eojin-J)|[블로그](https://comgenie.tistory.com)|
   |WonGyeom|[깃허브](https://github.com/EoNjesajo)|[블로그](https://podata.tistory.com)|
   |Kkubuck|[깃허브](https://github.com/Kkubuck)|[블로그](https://jms3084.tistory.com)|<br><br>
+  |TaekJun Jung|[깃허브](https://github.com/iamtaekjun)||<br><br>
 
   
 # Team Projects & Experience
